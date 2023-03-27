@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fidoogfidoline-done/static/css/main.4721fb0c.css",
-    "main.js": "/fidoogfidoline-done/static/js/main.2355101b.js",
+    "main.js": "/fidoogfidoline-done/static/js/main.3c93fabd.js",
     "static/js/787.b75db449.chunk.js": "/fidoogfidoline-done/static/js/787.b75db449.chunk.js",
     "static/media/forsidecoverbillede.jpg": "/fidoogfidoline-done/static/media/forsidecoverbillede.92c8ef7bf33736dd6d1e.jpg",
     "index.html": "/fidoogfidoline-done/index.html",
     "main.4721fb0c.css.map": "/fidoogfidoline-done/static/css/main.4721fb0c.css.map",
-    "main.2355101b.js.map": "/fidoogfidoline-done/static/js/main.2355101b.js.map",
+    "main.3c93fabd.js.map": "/fidoogfidoline-done/static/js/main.3c93fabd.js.map",
     "787.b75db449.chunk.js.map": "/fidoogfidoline-done/static/js/787.b75db449.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4721fb0c.css",
-    "static/js/main.2355101b.js"
+    "static/js/main.3c93fabd.js"
   ]
 }
